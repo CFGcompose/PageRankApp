@@ -1,0 +1,7 @@
+streamlit
+base64
+matplotlib
+pandas
+seaborn
+plotly
+scikit-network
